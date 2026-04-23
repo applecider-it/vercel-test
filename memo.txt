@@ -1,0 +1,10 @@
+
+cd /home/owner/workspace/github/vercel-test/src
+
+-----------------------------------
+
+npm run dev
+
+http://localhost:3000/
+
+
